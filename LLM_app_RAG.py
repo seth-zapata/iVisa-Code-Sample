@@ -6,7 +6,7 @@
 import boto3 # Key SDK for using AWS Bedrock
 
 import bedrock_client_factory
-import_enrich_query_factory
+import enrich_query_factory
 import data_retrieval_client_factory
 
 # Add imports here for classes in other other files
